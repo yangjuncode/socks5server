@@ -13,3 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.idea/
+/cmd/socks5server/socks5server
+/cmd/socks5server/socks5server.exe
